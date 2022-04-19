@@ -212,8 +212,8 @@ public class Quenmatkhau extends javax.swing.JFrame {
 //            System.out.println(email__);
             } catch (Exception e) {
             }
-            final String username = "tuehvph13476@fpt.edu.vn";
-            final String password = "hoangtue1998";
+            final String username = "truongtnph12419@fpt.edu.vn";
+            final String password = "Minhanhgr2";
             Random rd = new Random();
             RamDomCodeEmail = rd.nextInt(999999);
             Properties prop = new Properties();
