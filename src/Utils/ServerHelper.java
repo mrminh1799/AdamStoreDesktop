@@ -13,10 +13,7 @@ import java.nio.file.StandardCopyOption;
 import javax.swing.ImageIcon;
 import DAL.Entity.Staff;
 
-/**
- *
- * @author Hoang Tue
- */
+
 public class ServerHelper {
 
     public static final Image APP_ICON;

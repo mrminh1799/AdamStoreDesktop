@@ -6,13 +6,10 @@ package Ui;
 
 import Ui.Login;
 
-/**
- *
- * @author Hoang Tue
- */
+
 public class Loading extends javax.swing.JFrame {
     
-    Login loin = new Login();
+    Login loin = new Login(); 
 
     public Loading() {
         initComponents();

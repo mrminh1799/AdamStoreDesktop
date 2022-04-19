@@ -10,7 +10,7 @@ import DAL.Entity.Invoice;
 import DAL.Entity.InvoiceDetail;
 import DAL.Service.ClientService;
 import DAL.Service.InvoiceDetailService;
-import DAL.Service.InvoiceService;
+import DAL.Service.InvoiceService; 
 import Ui.Model.ClientUIMoDel;
 import Ui.Model.InvoDtailUI;
 

@@ -13,10 +13,6 @@ import java.util.List;
 import java.util.UUID;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Hoang Tue
- */
 public class QLLoaiSP extends javax.swing.JFrame {
 
     /**

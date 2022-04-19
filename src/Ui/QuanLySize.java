@@ -9,7 +9,7 @@ import DAL.Entity.Size;
 import Utils.BoxDiaglog;
 import java.util.List;
 import javax.swing.table.DefaultTableModel;
-
+ 
 /**
  *
  * @author Minh

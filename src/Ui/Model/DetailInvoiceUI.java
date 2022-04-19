@@ -7,12 +7,9 @@ package Ui.Model;
 
 import java.util.Date;
 
-/**
- *
- * @author tiennv
- */
-public class DetailInvoiceUI {
 
+public class DetailInvoiceUI {
+ 
     private int MaHoaDon;
     private String MaSanPham;
     private String TenSanPham;

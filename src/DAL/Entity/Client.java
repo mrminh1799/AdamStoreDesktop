@@ -8,7 +8,7 @@ package DAL.Entity;
  *
  * @author Minh
  */
-public class Client {
+public class Client { 
     private int maKhachHang;
     private String tenKhachHang;
     private String diaChi;

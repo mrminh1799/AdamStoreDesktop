@@ -4,12 +4,9 @@
  */
 package Business.DTO;
 
-/**
- *
- * @author Hoang Tue
- */
+
 public class ProducDetailDTO {
-    private String maSPCT;
+    private String maSPCT; 
    // private String tenSanPham;
     
     private String mau;

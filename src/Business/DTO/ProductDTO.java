@@ -11,7 +11,7 @@ package Business.DTO;
 public class ProductDTO {
     private String id; 
     private String tenSanPham;
-    private String loaiSanPham;
+    private String loaiSanPham; 
     private String anh;
 
     public ProductDTO() {

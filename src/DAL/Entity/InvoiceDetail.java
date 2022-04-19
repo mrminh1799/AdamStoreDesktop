@@ -10,7 +10,7 @@ package DAL.Entity;
  */
 public class InvoiceDetail {
 
-    private int MaHoaDon;
+    private int MaHoaDon; 
     private int MaHDCT;
     private String MaSanPhamChiTiet;
     private int SoLuong;

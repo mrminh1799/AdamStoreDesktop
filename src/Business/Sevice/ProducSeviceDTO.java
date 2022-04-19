@@ -11,7 +11,7 @@ import DAL.Entity.Color;
 import DAL.Entity.Product;
 import DAL.Entity.Product_1;
 import DAL.Entity.ProductDetail;
-import DAL.Entity.Size;
+import DAL.Entity.Size; 
 
 import java.util.ArrayList;
 import java.util.List;

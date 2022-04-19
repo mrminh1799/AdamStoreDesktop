@@ -13,7 +13,7 @@ import java.util.Date;
 public class Invoice {
 
     private int maHoaDon;
-    private String maNhanVien;
+    private String maNhanVien; 
     private Date ngayBan;
     private String MaKhachHang;
     private float tongTien;

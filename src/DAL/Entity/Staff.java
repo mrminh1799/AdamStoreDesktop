@@ -11,7 +11,7 @@ import java.util.Date;
  * @author Minh
  */
 public class Staff {
-    private String maNhanVien;
+    private String maNhanVien; 
     private String taiKhoan;
     private String matKhau;
     private String tenNhanVien;

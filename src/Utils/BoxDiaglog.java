@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author Hoang Tue
- */
+ */ 
 public class BoxDiaglog {
 
     // Thông báo

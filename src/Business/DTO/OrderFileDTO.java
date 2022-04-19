@@ -6,11 +6,8 @@
 package Business.DTO;
 
 import java.util.Date;
+ 
 
-/**
- *
- * @author tiennv
- */
 public class OrderFileDTO {
     private int orderID;
     private String CustomerName;

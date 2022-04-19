@@ -11,7 +11,7 @@ package DAL.Entity;
 public class Product_2 {
     private String maSanPham;
     private String tenSanPham;
-    private String maTheLoai;
+    private String maTheLoai; 
     private String anh;
     private String ghiChu;
     private int trangThai;

@@ -5,15 +5,12 @@
  */
 package Ui.Model;
 
-/**
- *
- * @author tiennv
- */
+
 public class ClientUIMoDel {
 
   
 
-    private int maKhachHang;
+    private int maKhachHang; 
     private String tenKhachHang;
     private String diaChi;
     private String dienThoai;

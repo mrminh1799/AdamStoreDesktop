@@ -7,12 +7,9 @@ package Ui.Model;
 
 import java.util.Date;
 
-/**
- *
- * @author tiennv
- */
-public class ProductDetailUI {
 
+public class ProductDetailUI {
+ 
     private String maLoaiSp;
     private String tenLoai;
     private String maSP;

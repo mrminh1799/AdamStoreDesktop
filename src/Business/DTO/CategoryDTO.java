@@ -4,12 +4,9 @@
  */
 package Business.DTO;
 
-/**
- *
- * @author Hoang Tue
- */
-public class CategoryDTO {
 
+public class CategoryDTO {
+ 
     private String maTheloai;
     private String tenTheloai;
 

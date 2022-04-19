@@ -10,14 +10,11 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-/**
- *
- * @author Minh
- */
+
 public class JdbcHelper {
 
     public static String driver = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
-       public static String dburl = "jdbc:sqlserver://MINH\\SQLEXPRESS;database=QLBH4";
+       public static String dburl = "jdbc:sqlserver://MINH\\SQLEXPRESS;database=QLBH";
 
 
     public static String username = "sa";

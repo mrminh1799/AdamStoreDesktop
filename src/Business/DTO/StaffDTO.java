@@ -6,12 +6,9 @@ package Business.DTO;
 
 import java.util.Date;
 
-/**
- *
- * @author Hoang Tue
- */
-public class StaffDTO {
-        private String maNhanVien;
+
+public class StaffDTO { 
+        private String maNhanVien; 
     private String taiKhoan;
     private String matKhau;
     private String tenNhanVien;

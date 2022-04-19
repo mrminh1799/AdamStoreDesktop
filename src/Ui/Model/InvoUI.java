@@ -7,16 +7,13 @@ package Ui.Model;
 
 import java.util.Date;
 
-/**
- *
- * @author tiennv
- */
+
 public class InvoUI {
     
     private int maHoaDon;
     private String maNhanVien;
     private Date ngayBan;
-    private String MaKhachHang;
+    private String MaKhachHang; 
 
     public InvoUI() {
     }

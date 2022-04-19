@@ -9,12 +9,9 @@ import DAL.Service.SizeService;
 import Utils.JdbcHelper;
 import java.util.List;
 
-/**
- *
- * @author Minh
- */
+
 public class SizeBussiniesService {
-    SizeService service = new SizeService();
+    SizeService service = new SizeService(); 
     public List<Size> getAllSize() {
         
         List<Size> list = service.selectALL();

@@ -7,12 +7,8 @@ package DAL.Entity;
 
 import java.util.Date;
 
-/**
- *
- * @author tiennv
- */
 public class GiamGia {
-    
+     
    private int  maGiamGia;
    private float phanTram;
    private Date ngayBatDau;

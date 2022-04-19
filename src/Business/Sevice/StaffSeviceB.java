@@ -10,13 +10,10 @@ import DAL.Service.StaffService;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author Hoang Tue
- */
+
 public class StaffSeviceB {
 
-    StaffService service = new StaffService();
+    StaffService service = new StaffService(); 
 
     public List<StaffDTO> getAll() {
         List<Staff> listStaff = service.selectALL();

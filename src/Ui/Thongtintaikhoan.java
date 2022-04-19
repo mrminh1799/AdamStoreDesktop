@@ -11,13 +11,9 @@ import static Ui.Home.passNV;
 import static Ui.Home.taiKhoan;
 import static Ui.Home.tenNV;
 import Utils.BoxDiaglog;
-import javax.swing.JFrame;
+import javax.swing.JFrame; 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author pc
- */
 public class Thongtintaikhoan extends javax.swing.JFrame {
 
     /**

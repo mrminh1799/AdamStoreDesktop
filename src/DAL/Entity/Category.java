@@ -9,7 +9,7 @@ package DAL.Entity;
  * @author Minh
  */
 public class Category {
-    private String maTheLoai;
+    private String maTheLoai;  
     private String tenTheLoai;
     private boolean trangThai;
 

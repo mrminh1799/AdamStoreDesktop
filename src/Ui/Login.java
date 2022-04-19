@@ -10,12 +10,9 @@ import DAL.Entity.Staff;
 import DAL.Service.StaffService;
 import Utils.BoxDiaglog;
 import java.awt.Color;
-import java.util.List;
+import java.util.List; 
 
-/**
- *
- * @author pc
- */
+
 public class Login extends javax.swing.JFrame {
 
     StaffSeviceB sev;

@@ -16,10 +16,7 @@ import java.nio.file.StandardCopyOption;
 import javax.imageio.ImageIO;
 import javax.swing.ImageIcon;
 
-/**
- *
- * @author Hoang Tue
- */
+
 public class ImageHelper {
        public static void save(File src) {
         File dst = new File("rs", src.getName());

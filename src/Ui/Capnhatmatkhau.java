@@ -8,11 +8,8 @@ import DAL.Entity.Staff;
 import DAL.Service.StaffService;
 import Utils.BoxDiaglog;
 import java.awt.Color;
+ 
 
-/**
- *
- * @author Hoang Tue
- */
 public class Capnhatmatkhau extends javax.swing.JFrame {
 
     /**

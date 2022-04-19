@@ -6,10 +6,7 @@ package Business.Sevice;
 
 import DAL.Service.ProductDetailService;
 
-/**
- *
- * @author Minh
- */
+
 public class ProductDetailServiceBussines {
     ProductDetailService servicePRdetail;
    

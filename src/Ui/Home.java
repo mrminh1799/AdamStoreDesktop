@@ -8,10 +8,7 @@ import DAL.Entity.Staff;
 import Utils.BoxDiaglog;
 import javax.swing.JFrame;
 
-/**
- *
- * @author pc
- */
+
 public class Home extends javax.swing.JFrame {
 
     /**

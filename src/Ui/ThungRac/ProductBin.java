@@ -9,7 +9,7 @@ import DAL.Entity.Product;
 import DAL.Entity.Product_1;
 import DAL.Service.ProductService;
 import Ui.QuanLySanPham;
-import Utils.BoxDiaglog;
+import Utils.BoxDiaglog; 
 import java.util.List;
 import javax.swing.table.DefaultTableModel;
 

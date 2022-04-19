@@ -6,7 +6,7 @@ package DAL.Entity;
 
 /**
  *
- * @author Minh
+ * @author Minh 
  */
 public class Color {
     private int maMau;

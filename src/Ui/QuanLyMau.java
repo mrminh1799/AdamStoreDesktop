@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
  *
  * @author Minh
  */
-public class QuanLyMau extends javax.swing.JFrame {
+public class QuanLyMau extends javax.swing.JFrame { 
 
     /**
      * Creates new form QuanLyMau

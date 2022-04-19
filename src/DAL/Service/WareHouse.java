@@ -11,7 +11,7 @@ import java.util.List;
  * @author Minh
  */
 public interface WareHouse<E, K> {
-    abstract public void insert(E entity);
+    abstract public void insert(E entity); 
    abstract public void update(E entity);
    abstract public void delete(K key);
    abstract public List<E> selectALL();

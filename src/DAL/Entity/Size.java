@@ -13,7 +13,7 @@ public class Size {
     private String tenSize;
     private boolean  trangThai;
 
-    public boolean isTrangThai() {
+    public boolean isTrangThai() { 
         return trangThai;
     }
 

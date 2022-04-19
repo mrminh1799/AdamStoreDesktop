@@ -12,7 +12,7 @@ public class ProductDetail {
     private String maSanPhamChiTiet;
     private String tenSanPham;
     private int soLuong;
-    private int giaNhap;
+    private int giaNhap; 
     private int giaBan;
     private String maSanPham;
     private String maTheLoai;

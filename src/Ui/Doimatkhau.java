@@ -10,7 +10,7 @@ import Utils.BoxDiaglog;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import Ui.Login;
-
+ 
 public class Doimatkhau extends javax.swing.JFrame {
 //    public static Staff userLogin;
 

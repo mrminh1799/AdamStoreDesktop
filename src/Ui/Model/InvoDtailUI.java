@@ -7,16 +7,12 @@ package Ui.Model;
 
 import java.util.Date;
 
-/**
- *
- * @author tiennv
- */
 public class InvoDtailUI {
 
     private int MaHoaDon;
     private String MaTheLoai;
     private String TenTheLoai;
-    private String maSP;
+    private String maSP; 
     private String tenSP;
     private int SoLuong;
     private String GhiChu;

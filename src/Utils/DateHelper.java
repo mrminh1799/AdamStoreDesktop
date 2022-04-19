@@ -8,10 +8,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- *
- * @author Hoang Tue
- */
+
 public class DateHelper {
 
         static final SimpleDateFormat DATE_FORMATER = new SimpleDateFormat("yyyy-MM-dd");

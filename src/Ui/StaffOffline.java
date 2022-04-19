@@ -10,11 +10,8 @@ import Utils.BoxDiaglog;
 import java.util.List;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
+ 
 
-/**
- *
- * @author Hoang Tue
- */
 public class StaffOffline extends javax.swing.JFrame {
 
     /**

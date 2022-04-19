@@ -4,11 +4,8 @@
  */
 package Business.DTO;
 
-/**
- *
- * @author Minh
- */
-public class ChartDTO {
+
+public class ChartDTO  {
     private String month;
     private Integer sumPrice;
 

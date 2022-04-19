@@ -9,17 +9,14 @@ import Business.Sevice.StatisticalBussinesService;
 import java.sql.SQLException;
 import java.util.List;
 import java.util.logging.Level;
-import java.util.logging.Logger;
+import java.util.logging.Logger; 
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.JFreeChart;
 import org.jfree.chart.plot.PlotOrientation;
 import org.jfree.data.category.CategoryDataset;
 import org.jfree.data.category.DefaultCategoryDataset;
 
-/**
- *
- * @author Minh
- */
+
 public class ChartStatistical {
 
     public static JFreeChart createChart(int year) {
